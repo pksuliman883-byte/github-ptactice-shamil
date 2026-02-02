@@ -1,1 +1,1 @@
-# github-ptactice-shamil
+# github-practice-shamil
